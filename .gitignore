@@ -1,0 +1,21 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# PyCharm settings
+.idea/
+
+# Environment-specific files
+.env
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
+
+
+/sso_aws.egg-info
+/sso2aws.egg-info
+/dist
